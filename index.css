@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 5px;
+}
+#gameScreen {
+    width: 70%;
+    height: 70%;
+    border: 1px solid black;
+   display: block;
+   margin: 0 auto
+}
